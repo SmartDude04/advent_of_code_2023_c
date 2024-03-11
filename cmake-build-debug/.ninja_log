@@ -1,0 +1,24 @@
+# ninja log v5
+0	60	7318065802265630	CMakeFiles/advent_of_code_2023_c.dir/main.c.obj	b8d8f8540dd96aa9
+61	216	7318065803792536	advent_of_code_2023_c.exe	85849d2c67b42e59
+1	113	7318120636536552	CMakeFiles/advent_of_code_2023_c.dir/main.c.obj	b8d8f8540dd96aa9
+5	126	7318120636667372	CMakeFiles/advent_of_code_2023_c.dir/file-opener.c.obj	c2dff226bf17ea67
+126	290	7318120638267857	advent_of_code_2023_c.exe	5dd70c19d33caaa0
+2	289	7318152502132188	CMakeFiles/advent_of_code_2023_c.dir/main.c.obj	b8d8f8540dd96aa9
+96	318	7318152502422252	CMakeFiles/advent_of_code_2023_c.dir/file-opener.c.obj	c2dff226bf17ea67
+318	670	7318152505912353	advent_of_code_2023_c.exe	5dd70c19d33caaa0
+2	61	7318152573860918	CMakeFiles/advent_of_code_2023_c.dir/main.c.obj	b8d8f8540dd96aa9
+61	222	7318152575426312	advent_of_code_2023_c.exe	5dd70c19d33caaa0
+2	67	7318153395821062	CMakeFiles/advent_of_code_2023_c.dir/file-opener.c.obj	c2dff226bf17ea67
+67	222	7318153397351517	advent_of_code_2023_c.exe	5dd70c19d33caaa0
+2	67	7318153589638044	CMakeFiles/advent_of_code_2023_c.dir/file-opener.c.obj	c2dff226bf17ea67
+67	227	7318153591203777	advent_of_code_2023_c.exe	5dd70c19d33caaa0
+2	57	7318154198226305	CMakeFiles/advent_of_code_2023_c.dir/main.c.obj	b8d8f8540dd96aa9
+57	219	7318154199817989	advent_of_code_2023_c.exe	5dd70c19d33caaa0
+2	67	7318155729259910	CMakeFiles/advent_of_code_2023_c.dir/file-opener.c.obj	c2dff226bf17ea67
+67	237	7318155730930912	advent_of_code_2023_c.exe	5dd70c19d33caaa0
+1	63	7318157388047499	CMakeFiles/advent_of_code_2023_c.dir/main.c.obj	b8d8f8540dd96aa9
+5	75	7318157388172579	CMakeFiles/advent_of_code_2023_c.dir/file-opener.c.obj	c2dff226bf17ea67
+75	235	7318157389728195	advent_of_code_2023_c.exe	5dd70c19d33caaa0
+2	59	7318157481661822	CMakeFiles/advent_of_code_2023_c.dir/main.c.obj	b8d8f8540dd96aa9
+59	223	7318157483272290	advent_of_code_2023_c.exe	5dd70c19d33caaa0
